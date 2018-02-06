@@ -1,14 +1,14 @@
 # CS4320Trip
 We are to find/build a team to carry out the Plan a Trip project.
 
-#Members:
+## Members:
 
-#Trip Members:
+## Trip Members:
 
-#Destination:
+## Destination:
 
-#Budget:
+## Budget:
 
-#Length:
+## Length:
 
-#Purpose:
+## Purpose:
