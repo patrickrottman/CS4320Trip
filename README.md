@@ -15,4 +15,4 @@ We are to find/build a team to carry out the Plan a Trip project.
 
 ## Length:
 
-## Purpose:
+## Purpose: Go to location
