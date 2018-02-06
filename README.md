@@ -10,6 +10,7 @@ We are to find/build a team to carry out the Plan a Trip project.
 * Ethan Moss
 
 ## Destination:
+#### Sample Idea: Venice Beach, California
 
 ## Budget:
 
