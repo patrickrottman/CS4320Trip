@@ -12,5 +12,3 @@ We are to find/build a team to carry out the Plan a Trip project.
 ## Length:
 
 ## Purpose:
-
-## Clone URL: https://github.com/patrickrottman/CS4320Trip.git
