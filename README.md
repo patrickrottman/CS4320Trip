@@ -16,5 +16,6 @@ We are to find/build a team to carry out the Plan a Trip project.
 ## Budget:
 
 ## Length:
+* Weekend Trip. Friday evening to Sunday evening. Technically 2 days.
 
 ## Purpose:
