@@ -15,6 +15,7 @@ We are to find/build a team to carry out the Plan a Trip project.
 
 ## Budget:
 500 Per Person
+
 3500 Total
 
 ## Length:
