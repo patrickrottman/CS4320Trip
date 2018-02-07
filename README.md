@@ -20,7 +20,7 @@ We are to find/build a team to carry out the Plan a Trip project.
 * Andrew Kammerich 
 
 ## Destination:
-#### Denver, Colorado
+Denver, Colorado
 
 ## Budget:
 $500 Per Person
