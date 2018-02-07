@@ -19,5 +19,6 @@ $500 Per Person
 $3500 Total
 
 ## Length:
+* Weekend Trip. Friday evening to Sunday evening. Technically 2 days.
 
 ## Purpose:
