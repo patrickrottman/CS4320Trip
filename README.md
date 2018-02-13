@@ -2,10 +2,10 @@
 We are to find/build a team to carry out the Plan a Trip project.
 
 ## Members:
-* Patrick Rottman (Scrum Master)
+* Patrick Rottman 
 * Ethan Moss (Trip Owner)
 * Joe Timlin
-* Nicole Dillon
+* Nicole Dillon (Scrum Master)
 * Anand Kulkarni
 * Will Givens
 * Andrew Kammerich
