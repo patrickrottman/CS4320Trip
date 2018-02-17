@@ -1,4 +1,4 @@
-#Route To Leadville, CO
+# Route To Leadville, CO
 1. Start out going west on E Broadway toward N 7th St.\
 Then 0.27 miles 0.27 total miles
 2. Turn right onto N Providence Rd/MO-163.\
