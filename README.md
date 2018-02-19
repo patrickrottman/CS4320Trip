@@ -23,7 +23,7 @@ Leadville, Colorado
 ## Budget:
 $500 Per Person
 
-$3500 Total
+$3000 Total
 
 ## Length:
 * Weekend Trip. Friday evening to Sunday evening. Technically 2 days.
