@@ -7,7 +7,6 @@ We are to find/build a team to carry out the Plan a Trip project.
 * Joe Timlin
 * Nicole Dillon (Scrum Master)
 * Anand Kulkarni
-* Will Givens
 * Andrew Kammerich
 
 ## Trip Members:
@@ -16,7 +15,6 @@ We are to find/build a team to carry out the Plan a Trip project.
 * Joe Timlin
 * Nicole Dillon
 * Anand Kulkarni
-* Will Givens
 * Andrew Kammerich 
 
 ## Destination:
