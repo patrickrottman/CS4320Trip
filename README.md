@@ -37,3 +37,7 @@ Our purpose will be to tackle two of Colorado's tallest mountains. The first of 
 
 ## Food
 [Food Information](food.md)
+
+
+## Activities After Hiking
+[Activities Information](activities.md)
