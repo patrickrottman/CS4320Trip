@@ -35,3 +35,7 @@ Our purpose will be to tackle two of Colorado's tallest mountains. The first of 
 
 ## Hotel
 [Hotel Information](HotelInfo.md)
+
+
+## Food
+[Food Information](food.md)
